@@ -66,3 +66,4 @@ RequestID → Logger → Recovery → CORS → Auth → Handler
 - 워크플로우: `.claude/guides/workflows.md`
 - 아키텍처: `.claude/guides/architecture.md`
 - 코딩 스타일: `.claude/guides/coding-standards.md`
+- 브랜치 전략: `.claude/guides/branch-strategy.md`
